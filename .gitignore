@@ -1,0 +1,26 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Mac
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
+*.cache
+
+# Screenshots (optional - यदि store नहीं करना चाहते)
+*.png
+*.jpg
+*.jpeg
+*.mov
+
+# Python
+__pycache__/
+*.pyc
+venv/
